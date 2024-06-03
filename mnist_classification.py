@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """mnist-classification.ipynb
-"""
+""" 
 
 import tensorflow
 from tensorflow import keras
